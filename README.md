@@ -1,2 +1,2 @@
-# countdown-timer
-A React library used to countdown time
+# Status Button
+simple customizable status buttons to change the UI
