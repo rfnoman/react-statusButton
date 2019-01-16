@@ -1,24 +1,23 @@
 {
-    "name": "@rfnoman/countdown-timer",
+    "name": "@rfnoman/react-status-button",
     "version": "0.0.1",
-    "description": "A React library used to countdown time",
-    "main": "dist/countdown.min.js",
-    "style": "dist/countdown.min.css",
+    "description": "simple customizable status buttons to change the UI",
+   
     "scripts": {
-        "build": "rollup -c -o dist/countdown.min.js",
+        "build": "rollup -c -o dist/statusButton.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/philipszdavido/countdown-timer.git"
+        "url": "git+https://github.com/rfnoman/react-statusButton"
     },
     "keywords": [],
     "author": "Rubaiyat Noman <rubaiyat.ferdose.noman@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/philipszdavido/countdown-timer/issues"
+        "url": "https://github.com/rfnoman/react-statusButton/issues"
     },
-    "homepage": "https://github.com/philipszdavido/countdown-timer#readme",
+    "homepage": "https://github.com/rfnoman/react-statusButton",
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-preset-react": "^6.24.1",
